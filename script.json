@@ -1,8 +1,8 @@
 {
-	"GREETINGS": ["Hello"],
+	"GREETINGS": ["Hello", "Hola", "Bonjour"],
 	"QUERIES": {
 		"Would you like to hear about the weather?": "The weather is cold, as always.",
 		"Would you like to hear about Illinois sports?": "There's not much to tell, as always."
 	},
-	"ENDINGS": ["Goodbye"]
+	"ENDINGS": ["Goodbye", "Adios", "Hasta la vista"]
 }
